@@ -1,9 +1,16 @@
+# **COMP6771 Advanced C++ Programming**
+
+This repository contains notes and code snippets for the COMP6771 course at UNSW in 2024 Term 2.
+**Handbook:** [UG](https://www.handbook.unsw.edu.au/undergraduate/courses/2024/COMP6771) / [PG](https://www.handbook.unsw.edu.au/postgraduate/courses/2024/COMP6771)
+
+## **Notes**
+
 | Name | Tags | contents | Status |
 | --- | --- | --- | --- |
 | [random](comp6771/random.md) | nan | `[[nodiscard]]`, friend, copy, iterator, `std::prtdiff_t`, include guard (`#ifndef`), `std::endl` | Done |
 | [w1lec1](comp6771/w1lec1.md) | lec | nan | Done |
 | [w1lec2](comp6771/w1lec2.md) | lec | basic types: string, auto, const; expressions; value semantics; type conversion; functions: syntax, default arguments, overloading; sequenced collections; values & references; function passing method; declaration & definition; looping: for-range, for; enumeration; file i/o; error | In progress |
-| [w2lec1](comp6771/w2lec1.md) | lec | STL: basic container iteration, sequential containers, ordered associative container, unordered associative container, container performance | Done |
+| [w2lec1](comp6771/w2lec1.md) | lec | STL: basic container iteration, sequential containers, ordered associative◊ container, unordered associative container, container performance | Done |
 | [w2lec2](comp6771/w2lec2.md) | lec | STL iterators; STL algorithms | Done |
 | [w2tut](comp6771/w2tut.md) | tut | nan | Done |
 | [w3lec](comp6771/w3lec.md) | lec | scope; namespaces; OOP: member access control, constructor, destructor, this (pointer), class scope, incomplete types,  classes & structs, explicit, const members, static members, defaults | Done |
