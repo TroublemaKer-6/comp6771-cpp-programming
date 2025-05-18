@@ -3,6 +3,8 @@
 This repository contains notes and code snippets for the COMP6771 course at UNSW in 2024 Term 2.
 **Handbook:** [UG](https://www.handbook.unsw.edu.au/undergraduate/courses/2024/COMP6771) / [PG](https://www.handbook.unsw.edu.au/postgraduate/courses/2024/COMP6771)
 
+- [ ] RUBBISH NOTES TO BE CLEANED
+
 ## **Notes**
 
 | Name | Tags | contents | Status |
